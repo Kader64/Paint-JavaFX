@@ -1,29 +1,29 @@
-# 🎨 Paint – JavaFX
+# Paint – JavaFX
 
 **Paint** to prosta aplikacja graficzna napisana w **JavaFX**, umożliwiająca rysowanie na płótnie (Canvas) z wykorzystaniem myszy.  
 Program pozwala tworzyć podstawowe kształty, zmieniać kolory oraz zapisywać i otwierać obrazy w popularnych formatach.
 
 ---
 
-## ✨ Funkcjonalności
+## Funkcjonalności
 
-- 🖌️ Rysowanie przy użyciu myszy (kliknięcie i przeciąganie)
-- 🎨 Wybór koloru za pomocą `ColorPicker`
-- 📏 Regulacja rozmiaru pędzla
-- 📐 Ustawianie szerokości i wysokości płótna
-- 🧽 Tryb gumki (Eraser)
-- 🔷 Rysowanie kształtów
-- 🖍️ Tryb rysowania:
+-  Rysowanie przy użyciu myszy (kliknięcie i przeciąganie)
+-  Wybór koloru za pomocą `ColorPicker`
+-  Regulacja rozmiaru pędzla
+-  Ustawianie szerokości i wysokości płótna
+-  Tryb gumki (Eraser)
+-  Rysowanie kształtów
+-  Tryb rysowania:
   - Fill (wypełnienie)
   - Stroke (obrys)
-- 📍 Wyświetlanie aktualnej pozycji kursora (X, Y)
-- 💾 Zapisywanie obrazu (PNG, JPG, GIF)
-- 📂 Otwieranie istniejących plików graficznych
-- ❓ Komunikat przy zamykaniu aplikacji z opcją zapisu
+-  Wyświetlanie aktualnej pozycji kursora (X, Y)
+-  Zapisywanie obrazu (PNG, JPG, GIF)
+-  Otwieranie istniejących plików graficznych
+-  Komunikat przy zamykaniu aplikacji z opcją zapisu
 
 ---
 
-## 🛠️ Technologie
+## Technologie
 
 - Java
 - JavaFX
